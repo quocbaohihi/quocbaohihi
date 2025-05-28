@@ -22,11 +22,6 @@
 ---
 
 ### 🚀 Dự án nổi bật
-- 🔧 [Hệ thống giám sát IoT cho trại nuôi](https://github.com/yourproject)
-- 🌿 [Nền tảng nông nghiệp thông minh toàn diện](https://github.com/yourproject2)
+- 🔧 [Hệ thống giám sát IoT cho trại nuôi]
+- 🌿 [Nền tảng nông nghiệp thông minh toàn diện]
 - 💬 Chatbot hỗ trợ nông dân tư vấn cây trồng & vật nuôi
-
----
-
-### 📫 Liên hệ
-- 🌐 [Website cá nhân](https://yourwebsite.com
