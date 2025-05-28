@@ -1,16 +1,32 @@
-### Hi there 👋
+<h1 align="center">Xin chào, tôi là Quốc Bảo 👋</h1>
 
-<!--
-**quocbaohihi/quocbaohihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Lập trình viên | 🎨 Thiết kế UI/UX | 🌱 Yêu thích công nghệ nông nghiệp thông minh
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Giới thiệu nhanh
+- 🎓 Sinh viên ngành Marketing / Công nghệ / Kỹ thuật
+- 🧠 Đang học về IoT, web, và trí tuệ nhân tạo ứng dụng trong nông nghiệp
+- 📍 Hiện tại đang xây dựng nền tảng hỗ trợ nông nghiệp thông minh tại Việt Nam 🇻🇳
+
+---
+
+### 🛠️ Kỹ năng
+| Frontend | Backend | Công cụ khác |
+|----------|---------|--------------|
+| HTML, CSS, JS | PHP, MySQL | Git, Figma, Zabbix |
+| ReactJS, TailwindCSS | Laravel | VS Code, Canva |
+
+---
+
+### 🚀 Dự án nổi bật
+- 🔧 [Hệ thống giám sát IoT cho trại nuôi](https://github.com/yourproject)
+- 🌿 [Nền tảng nông nghiệp thông minh toàn diện](https://github.com/yourproject2)
+- 💬 Chatbot hỗ trợ nông dân tư vấn cây trồng & vật nuôi
+
+---
+
+### 📫 Liên hệ
+- 🌐 [Website cá nhân](https://yourwebsite.com
